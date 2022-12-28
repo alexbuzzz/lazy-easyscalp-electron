@@ -59,6 +59,7 @@ const closeWindow = () => {
     max-width: 100%;
     max-height: 100%;
     margin: auto;
+    aspect-ratio: 4 / 1;
   }
 }
 </style>
